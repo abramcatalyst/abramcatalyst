@@ -1,4 +1,3 @@
-# 👋 Hi, I'm **Abram Catalyst**
 ### Full-Stack Web Developer — Laravel · PHP · Tailwind · Node.js
 
 I build fast, maintainable web applications and delightful developer experiences.  
