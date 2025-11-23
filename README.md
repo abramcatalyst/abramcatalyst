@@ -5,7 +5,7 @@ Open for freelance/contract work — **email me** and let's talk.
 
 📩 **Email:** hello@abramcatalyst.dev  
 🌐 **Portfolio:** https://abramcatalyst.dev  
-🧑‍💻 **Twitter / Mastodon / X:** @abramcatalyst  
+🧑‍💻 **Twitter / Insta / X:** @abramcatalyst  
 🎯 **Specialty:** Laravel backends, component-driven frontends with Tailwind, and realtime features with Node.js.
 
 ---
